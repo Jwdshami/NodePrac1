@@ -1,0 +1,9 @@
+{
+    "Payment": {
+      "USERNAME": "DESKTOP-FDV802U\\jawad",
+      "PASSWORD": "",
+      "DATABASE": "Payment",
+      "HOST": "DESKTOP-FDV802U\\SQLEXPRESS",
+      "DIALECT": "mysql"
+    }
+  }
